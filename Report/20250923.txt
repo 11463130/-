@@ -19,6 +19,8 @@
 
 總之，這場演講讓我對AI和數位轉型有更清楚的認識，也激勵我想多學習這方面的知識。
 
+關鍵字:人工智慧、數位轉型、深度學習、AI偏見與倫理、詐欺偵測、風險評估、智慧陪伴老人
+
 參考資料:
 [1] 金融監督管理委員會 新聞稿-金管會公布金融業應用人工智慧(AI)調查結果 : https://www.fsc.gov.tw › ... : https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202505200001&dtable=News
 [2] 台灣人工智慧學校 製造業如何導入AI、解決痛點？ : https://aiacademy.tw › solve-pain-points
